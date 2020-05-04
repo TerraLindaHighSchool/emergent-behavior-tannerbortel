@@ -16,7 +16,7 @@ public class Bird extends Animal
     // The age at which a bird can start to breed.
     private static final int BREEDING_AGE = 5;
     // The likelihood of a bird breeding (in percent).
-    private static final int BREEDING_PROBABILITY = 7;
+    private static final int BREEDING_PROBABILITY = 100;
     // The maximum number of births.
     private static final int MAX_LITTER_SIZE = 3;
     // The food value of a single moth. In effect, this is the

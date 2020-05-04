@@ -19,7 +19,7 @@ public class Moth extends Animal
     // The maximum number of births.
     private static final int MAX_LITTER_SIZE = 5;
     // The likelihood moth mutates to black (in percent).
-    private static final double MUTATION_PROBABILITY = 1;
+    private static final double MUTATION_PROBABILITY = 15;
     
     private GreenfootImage mothImage;
     private boolean peppered;
