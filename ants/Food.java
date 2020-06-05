@@ -11,10 +11,6 @@ public class Food extends Actor
     private int crumbs = 100;
     private int size = 30;
     private GreenfootImage image;
-    /**
-     * Act - do whatever the Food wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
     public void act() 
     {
         // Add your action code here.
